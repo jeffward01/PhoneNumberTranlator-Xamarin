@@ -1,0 +1,11 @@
+C:\Dev\github\HelloWorld-IOs\Phoneword\Phoneword_iOS\bin\iPhone\Debug\Phoneword_iOS.exe
+C:\Dev\github\HelloWorld-IOs\Phoneword\Phoneword_iOS\bin\iPhone\Debug\Phoneword_iOS.pdb
+C:\Dev\github\HelloWorld-IOs\Phoneword\Phoneword_iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Dev\github\HelloWorld-IOs\Phoneword\Phoneword_iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Dev\github\HelloWorld-IOs\Phoneword\Phoneword_iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Dev\github\HelloWorld-IOs\Phoneword\Phoneword_iOS\obj\iPhone\Debug\optimized\
+C:\Dev\github\HelloWorld-IOs\Phoneword\Phoneword_iOS\obj\iPhone\Debug\Phoneword_iOS.csprojResolveAssemblyReference.cache
+C:\Dev\github\HelloWorld-IOs\Phoneword\Phoneword_iOS\obj\iPhone\Debug\Phoneword_iOS.exe
+C:\Dev\github\HelloWorld-IOs\Phoneword\Phoneword_iOS\obj\iPhone\Debug\Phoneword_iOS.pdb
+C:\Dev\github\HelloWorld-IOs\Phoneword\Phoneword_iOS\obj\iPhone\Debug\Phoneword_iOS.exe.mdb
+C:\Dev\github\HelloWorld-IOs\Phoneword\Phoneword_iOS\bin\iPhone\Debug\Phoneword_iOS.exe.mdb
